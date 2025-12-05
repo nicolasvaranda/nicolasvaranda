@@ -5,7 +5,7 @@
 
 (Java | Spring Boot | AWS) 🚀
 
-- 👩‍💻 Software Engineer focused on IVR Development
+- 👩‍💻 Software Engineer
 - 👨‍🎓 AWS Certified Cloud Practitioner
 - 🎓 Bachelor's degree in Information Systems
 - 🌐 Passionate about backend development
