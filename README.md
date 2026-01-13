@@ -6,7 +6,7 @@
 (Java | Spring Boot | AWS) 🚀
 
 - 👩‍💻 Software Engineer
-- 👨‍🎓 AWS Certified Cloud Practitioner
+- 👨‍🎓 AWS Certified
 - 🎓 Bachelor's degree in Information Systems
 - 🌐 Backend development
 
